@@ -1,4 +1,4 @@
-[ Live demo 🚀]()
+[ Live demo 🚀](http://localhost:3000)
 
 # Getting Started with Create React App
 
