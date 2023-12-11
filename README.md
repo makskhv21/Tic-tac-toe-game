@@ -1,7 +1,7 @@
 
 # Tic Tac Toe
-### :rocket: [Live Demo ](http://localhost:3000)
 This project contains a minimax algorithm implemented tic tac toe app built with React.
+### :rocket: [Live Demo ](http://localhost:3000)
 
 # Getting Started with Create React Apр
 
